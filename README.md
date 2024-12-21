@@ -15,4 +15,4 @@ Retrieve the top duo artists for a specified year (between 2010 and 2020).
 
 1. Ensure you have Perl installed on your system. To check, run the following command:
 
-2. Music Dataset: The script uses a dataset (charts.csv) that should be located in the same directory as the script. Ensure the data is properly formatted and includes information such as genre, BPM, artists, and popularity metrics.
+2. Music Dataset: The script uses a dataset (topspotify.csv) that should be located in the same directory as the script. Ensure the data is properly formatted and includes information such as genre, BPM, artists, and popularity metrics.
